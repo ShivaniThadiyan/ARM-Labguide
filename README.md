@@ -37,7 +37,7 @@ You are provided a Visual Studio Community 2017 on Windows Server 2016 (x64)Micr
 
 # Known Issues
 
-* Webpage might takes 15-20 minutes to come up.Refresh the browser after 20-25 mins to view the web page.
+Webpage might takes 15-20 minutes to come up.Refresh the browser after 20-25 mins to view the web page.
 
 # Notes to Instructors / Proctors
 
@@ -45,6 +45,6 @@ You are provided a Visual Studio Community 2017 on Windows Server 2016 (x64)Micr
 
 # Help and Support
 
-* If you require any help during the workshop, please reach out to the instructor / proctors. Instructors / proctors might escalate the issue to remote support team, at that time, please pass on your AAD User ID (aad_user_xyz), so that it is easier to look up your environment.
+If you require any help during the workshop, please reach out to the instructor / proctors. Instructors / proctors might escalate the issue to remote support team, at that time, please pass on your AAD User ID (aad_user_xyz), so that it is easier to look up your environment.
 
   
