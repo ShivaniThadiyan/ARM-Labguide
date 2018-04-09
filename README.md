@@ -2,7 +2,7 @@
 
 Azure Resource Manager (ARM) is a one day workshop lead by Microsoft or Microsoft partners.These one day focus on hands-on activities that  deploy to infrastructure such as virtual machine, storage, and networking.This lab will also teach the attendees how to deploy virtual machines that are automatically configured by the Azure Automation Desired State Configuration (DSC) service.
 * How to author and deploy an ARM template 
-* How to perform configuration management with Azure Automation DSC
+* How to perform configuration management with Azure Automation DSC.
  
 # Sign-up for Workshop Environment
 
