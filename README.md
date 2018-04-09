@@ -41,7 +41,7 @@ Webpage might takes 15-20 minutes to come up.Refresh the browser after 20-25 min
 
 # Notes to Instructors / Proctors
 
-* User can use the same size of vm which is provided in document.
+User can use the same size of vm which is provided in document.
 
 # Help and Support
 
