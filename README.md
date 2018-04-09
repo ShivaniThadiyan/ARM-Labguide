@@ -37,7 +37,7 @@ You are provided a Visual Studio Community 2017 on Windows Server 2016 (x64)Micr
 
 # Known Issues
 
-Webpage might takes 15-20 minutes to come up.Refresh the browser after 20-25 mins to view the web page.
+Webpage might takes 25-30 minutes to come up.Refresh the browser after 25-30 mins to view the web page.
 
 # Notes to Instructors / Proctors
 
